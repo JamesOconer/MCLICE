@@ -4,8 +4,6 @@
 # This source code is licensed under the license found in the
 # LICENSE file in the root directory of this source tree.
 
-# command:
-# python run_seq_tc_sota_41.6_bak.py -k cpn_ft_h36m_dbb -f 243 -s 243 -cf 256 -l log/exp12_1_cs512_eval -c checkpoint/exp12_1_cs512_eval -lr 0.00004 -lrd 0.99 -b 1024 -e 256 -cs 512 -dep 8 -gpu 3,4
 
 import numpy as np
 
